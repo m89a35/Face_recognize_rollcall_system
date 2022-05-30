@@ -15,6 +15,7 @@
 學校的點名系統，以完成點名。
 
 前置作業 :
+
   到 http://dlib.net/files/ 下載 shape_predictor_68_face_landmarks.dat 及 dlib_face_recognition_resnet_model_v1.dat 並放入 face_detect_landmarks_model 資料夾內
 
 
